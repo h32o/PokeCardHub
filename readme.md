@@ -37,6 +37,7 @@ docker compose up -d
 The `-v` option deletes the database volume, so **all stored database data will be permanently removed**. The second command recreates the containers in the background.
 
 ## Names
-Delplace Hugo
-Deléglise Charly
-Dezitter Youenn
+- Delplace Hugo
+- Deléglise Charly
+- Dezitter Youenn
+- Lefebvre Jean-François
