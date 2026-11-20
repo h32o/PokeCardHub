@@ -1,4 +1,4 @@
-# baseSpringBoot
+# PokeCardHub
 
 A Spring Boot application called PokeCardHub, designed for managing Pokémon cards and built using Java 21, Maven, and PostgreSQL. Docker Compose is used to launch both the application and its database simultaneously.
 
